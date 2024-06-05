@@ -3,6 +3,6 @@ A really simple collection of datapacks which allow other fuels to be used in St
 
 # Crafts & Additions
 
-This branch adds _'createaddition:bioethanol'_
+This branch adds _'createaddition:seed_oil'_
 
-Default Fuel Ticks: 400
+Default Fuel Ticks: 100

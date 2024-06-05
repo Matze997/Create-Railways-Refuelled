@@ -1,8 +1,8 @@
 # Create-Railways-Refuelled
 A really simple collection of datapacks which allow other fuels to be used in Steam N' Rails
 
-# Crafts & Additions
+# Ad Astra
 
-This branch adds _'createaddition:seed_oil'_
+This branch adds _'ad_astra:fuel'_
 
-Default Fuel Ticks: 100
+Default Fuel Ticks: 1000

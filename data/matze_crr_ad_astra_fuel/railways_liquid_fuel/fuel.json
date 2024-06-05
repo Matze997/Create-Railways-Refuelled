@@ -1,0 +1,6 @@
+{
+  "fluids": [
+    "ad_astra:fuel"
+  ],
+  "fuel_ticks": 1000
+}

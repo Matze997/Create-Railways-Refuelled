@@ -1,6 +1,6 @@
 {
    "pack": {
       "pack_format": 15,
-      "description": "A really simple datapack which adds Bioethanol from Crafts & Additions as a valid fuel to Steam N' Rails"
+      "description": "A really simple datapack which removes Lava as a valid fuel from Steam N' Rails"
    }
 }

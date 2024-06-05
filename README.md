@@ -1,8 +1,6 @@
 # Create-Railways-Refuelled
 A really simple collection of datapacks which allow other fuels to be used in Steam N' Rails
 
-# Crafts & Additions
+# Minecraft
 
-This branch adds _'createaddition:bioethanol'_
-
-Default Fuel Ticks: 400
+This branch removes lava as a valid fuel

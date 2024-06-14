@@ -2,5 +2,5 @@
   "fluids": [
     "tfmg:diesel"
   ],
-  "fuel_ticks": 1200
+  "fuel_ticks": 1000
 }

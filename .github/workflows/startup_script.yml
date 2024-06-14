@@ -1,0 +1,34 @@
+name: Build Datapack
+
+on:
+  push:
+    paths:
+      - "pack.mcmeta"
+      - "README.md"
+      - "data/**"
+    branches:
+      - "*"
+      - "!main"
+
+jobs:
+  run-php-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Install PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: "8.1"
+
+      - name: Execute PHP Script
+        run: php .github/scripts/compile.php
+
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: Datapack
+          path: |
+            artifact/

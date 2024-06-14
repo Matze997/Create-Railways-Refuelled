@@ -1,6 +1,6 @@
 {
   "fluids": [
-    "ad_astra:fuel"
+    "tfmg:diesel"
   ],
   "fuel_ticks": 1000
 }

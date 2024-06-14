@@ -23,8 +23,8 @@ $zip = new ZipArchive();
 $zip->open(PATH."artifact".DIRECTORY_SEPARATOR.$filename.".zip", ZipArchive::CREATE | ZipArchive::OVERWRITE);
 
 include_directory($zip, "data");
-$zip->addFile(PATH."pack.mcmeta");
-$zip->addFile(PATH."README.md");
+$zip->addFile(PATH."pack.mcmeta", "pack.mcmeta");
+$zip->addFile(PATH."README.md", "README.md");
 $zip->close();
 
 function include_directory(ZipArchive $zip, string $directory, ?Closure $filter = null): void {

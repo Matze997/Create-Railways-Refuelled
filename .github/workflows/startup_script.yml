@@ -2,10 +2,6 @@ name: Build Datapack
 
 on:
   push:
-    paths:
-      - "pack.mcmeta"
-      - "README.md"
-      - "data/**"
     branches:
       - "*"
       - "!main"

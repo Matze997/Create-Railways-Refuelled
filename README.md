@@ -1,4 +1,4 @@
-# Create-Railways-Refuelled
+# Create Railways Refuelled
 A really simple collection of datapacks which modify fuels used in Steam N' Rails
 
 # Mods Supported
@@ -15,6 +15,9 @@ A really simple collection of datapacks which modify fuels used in Steam N' Rail
 
 ## Ad Astra
 - [Add Fuel](https://modrinth.com/datapack/create-railways-refuelled/version/4aZKUxaD)
+
+## Create: The Factory Must Grow
+- [Diesel](https://modrinth.com/datapack/create-railways-refuelled/version/svAlKndu)
 
 </details>
 

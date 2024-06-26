@@ -3,6 +3,6 @@ A really simple collection of datapacks which allow other fuels to be used in St
 
 # Create: Diesel Generators
 
-This branch adds _'createdieselgenerators:biodiesel'_
+This branch adds _'createdieselgenerators:ethanol'_
 
-Default Fuel Ticks: 748
+Default Fuel Ticks: 512

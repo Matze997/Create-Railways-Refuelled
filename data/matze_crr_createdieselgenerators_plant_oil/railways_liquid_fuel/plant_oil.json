@@ -1,6 +1,6 @@
 {
   "fluids": [
-    "createdieselgenerators:ethanol"
+    "createdieselgenerators:plant_oil"
   ],
   "fuel_ticks": 512
 }

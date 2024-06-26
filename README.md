@@ -19,6 +19,13 @@ A really simple collection of datapacks which modify fuels used in Steam N' Rail
 ## Create: The Factory Must Grow
 - [Diesel](https://modrinth.com/datapack/create-railways-refuelled/version/svAlKndu)
 
+## Create: Diesel Generators
+- [Biodiesel](https://modrinth.com/datapack/create-railways-refuelled/version/Kz9Lw7vH)
+- [Ethanol](https://modrinth.com/datapack/create-railways-refuelled/version/5M9bXlX9)
+- [Plant Oil](https://modrinth.com/datapack/create-railways-refuelled/version/i6Cupwjz)
+- [Gasoline](https://modrinth.com/datapack/create-railways-refuelled/version/G92SvyPx)
+- [Diesel](https://modrinth.com/datapack/create-railways-refuelled/version/ALg34iZF)
+
 </details>
 
 # Note
